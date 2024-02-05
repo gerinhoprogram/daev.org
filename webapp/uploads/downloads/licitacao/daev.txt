@@ -1,0 +1,15 @@
+***** editar cadastro de empresa
+***** mudar campo de texto
+***** reenviar senha por email
+***** dropdown tipo de licitacao
+***** http://www.daev.org.br/site/listar_empresas.asp
+***** http://www.daev.org.br/site/manual_cadastro_fornecedor.asp
+***** http://www.daev.org.br/site/manual_renovacao_crc.asp
+***** http://daev.com.br/compras/usuario/login.php
+***** http://daev.com.br/compras/usuario/login.php Certificado de registro cadastral
+***** +1 edital
+***** reenvio de edital
+
+----- highlight http://daev.com.br/compras/usuario/login.php
+----- validador de cnpj
+----- listar ultimos 12 meses empresa/licitacao
